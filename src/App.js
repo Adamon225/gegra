@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <img float="left" src={mapy}/>
       <Guess rar="blue" name="Słowiński" top="190px" left = "310px"></Guess>
-      <Guess rar="blue" name="Woliński" top="290px" left = "70px"></Guess>
+      <Guess rar="tlue" name="Woliński" top="290px" left = "70px"></Guess>
       <Guess rar="blue" name="Bory Tucholskie" top="290px" left = "310px"></Guess>
       <Guess rar="blue" name="Wigierski" top="260px" left = "710px"></Guess>
       <Guess rar="blue" name="Biebrzański" top="300px" left = "710px"></Guess>
