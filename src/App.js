@@ -28,7 +28,7 @@ function App() {
       <Guess rar="blue" name="Magurski" top="960px" left = "740px"></Guess>
       <Guess rar="blue" name="Bieszczadzki" top="1000px" left = "780px"></Guess>
       <Guess rar="blue" name="Pieniński" top="1010px" left = "615px"></Guess>
-      <Guess rar="blue" name="Tetrzański" top="1050px" left = "520px"></Guess>
+      <Guess rar="blue" name="Tatrzański" top="1050px" left = "520px"></Guess>
     </div>
   );
 }
